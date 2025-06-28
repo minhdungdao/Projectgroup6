@@ -1,0 +1,168 @@
+:root {
+    --prism-height: 350px;
+    --prism-length: 250px;
+    --prism-depth: var(--prism-length);
+    --spacing: 20px;
+    --br: 3px;
+
+    /* Colors */
+    --text-light: #fff;
+    --text-dark: #666;
+    --blue: #03a9f4;
+    --smoke: #f9f9fa;
+    --coral: #ff5751;
+    --navy-blue: #42509e;
+    --green: #ff4880;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    background: #f4f5f7bd;
+    text-align: center;
+}
+
+.wrapper {
+    width: var(--prism-length);
+    height: var(--prism-height);
+    margin: 60px auto;
+    perspective: 600px;
+    text-align: left;
+}
+
+.rec-prism {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transform: translateZ(-100px);
+    transition: transform 0.5s ease-in;
+}
+
+.face {
+    position: absolute;
+    width: var(--prism-length);
+    height: var(--prism-height);
+    padding: var(--spacing);
+    background: rgba(250, 240, 246, 0.96);
+    border: 3px solid var(--green);
+    border-radius: var(--br);
+}
+
+.face .content {
+    color: var(--text-dark);
+}
+
+.face h2 {
+    font-size: 1.2em;
+    color: var(--green);
+}
+
+.field-wrapper {
+    margin-top: calc(var(--spacing) * 1.5);
+    position: relative;
+}
+
+.field-wrapper label {
+    position: absolute;
+    pointer-events: none;
+    font-size: 0.85em;
+    top: 40%;
+    left: 0;
+    transform: translateY(-50%);
+    transition: all ease-in 0.25s;
+    color: var(--text-dark);
+}
+
+input[type='text'],
+input[type='password'],
+input[type='submit'],
+textarea {
+    appearance: none;
+}
+
+input[type='text'],
+input[type='password'],
+textarea {
+    width: 100%;
+    /* border: none; */
+    background: transparent;
+    line-height: 2em;
+    /* border-bottom: 1px solid var(--green); */
+    color: var(--text-dark);
+}
+
+input[type='text']:focus,
+input[type='password']:focus,
+textarea:focus {
+    outline: none;
+}
+
+input[type='text']:focus + label,
+input[type='password']:focus + label,
+textarea:focus + label {
+    top: -35%;
+    color: var(--navy-blue);
+}
+
+input[type='submit'] {
+    cursor: pointer;
+    width: 100%;
+    background: var(--green);
+    line-height: 2em;
+    color: var(--text-light);
+    border: 1px solid var(--green);
+    border-radius: var(--br);
+    padding: calc(var(--spacing) / 4);
+    transition: all 0.2s ease;
+}
+
+input[type='submit']:hover {
+    opacity: 0.9;
+}
+
+input[type='submit']:active {
+    transform: scale(0.96);
+}
+
+.thank-you-msg {
+    position: absolute;
+    width: 200px;
+    height: 130px;
+    text-align: center;
+    font-size: 2em;
+    color: var(--green);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.face-front {
+    transform: rotateY(0deg) translateZ(calc(var(--prism-length) / 2));
+}
+
+.face-bottom {
+    height: var(--prism-depth);
+    transform: rotateX(-90deg) translateZ(calc(var(--prism-height) - (var(--prism-depth) / 2)));
+}
+
+.nav li {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 1em;
+    margin: 0 calc(var(--spacing) / 2);
+    color: var(--navy-blue);
+    position: relative;
+    cursor: pointer;
+}
+
+.nav li:hover::after {
+    width: 100%;
+}
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}

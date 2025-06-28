@@ -1,0 +1,41 @@
+.form-heading-rate {
+    font-size: 1.8rem;
+}
+
+.container-form-rate {
+    border: 2px solid rgb(0, 221, 255);
+    padding: 14px 28px 48px 28px;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+    padding-top: 12px;
+
+    label {
+        margin-bottom: 4px;
+        font-size: 1.5rem;
+    }
+
+    input {
+        padding: 8px 0 8px 10px;
+        outline: none;
+        border: 1px solid #d7d7d7;
+        border-radius: 4px;
+    }
+}
+
+.submit-rate {
+    border: none;
+    padding: 10px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: dodgerblue;
+    color: #fff;
+    margin-top: 16px;
+    font-weight: bold;
+
+    &:hover {
+        opacity: 0.8;
+    }
+}

@@ -1,0 +1,64 @@
+
+    .dashboard-container {
+        padding: 1.5rem 1rem 1rem 1rem; /* thu hẹp padding bên trái */
+        margin-left: 0; /* loại bỏ margin nếu có */
+    }
+
+    .info-card {
+        background-color: #fff;
+        border-radius: 1rem;
+        padding: 1.2rem 0.8rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        height: 100%;
+    }
+
+    .info-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    }
+
+    .icon-box {
+        font-size: 2.2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .info-title {
+        font-size: 1rem;
+        margin-bottom: 0.3rem;
+        font-weight: 500;
+        color: #333;
+    }
+
+    .chart-container {
+        background-color: #fff;
+        border-radius: 1rem;
+        padding: 2rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        margin-top: 4rem;
+        height: 400px;
+    }
+
+    .row-cols-custom {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        justify-content: space-between;
+    }
+
+    .card-col {
+        flex: 1 1 calc(22% - 1.2rem);
+        min-width: 180px;
+    }
+
+    @media (max-width: 992px) {
+        .card-col {
+            flex: 1 1 calc(50% - 1.5rem);
+        }
+    }
+
+    @media (max-width: 576px) {
+        .card-col {
+            flex: 1 1 100%;
+        }
+    }

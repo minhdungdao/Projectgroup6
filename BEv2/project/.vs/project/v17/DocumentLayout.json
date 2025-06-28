@@ -1,0 +1,1267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BEv3\\BEv2\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\cvsubmissioncontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\cvsubmissioncontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\replyfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\replyfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\createfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\createfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\tabletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\tabletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\candidateforgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\candidateforgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\capsulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\capsulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\cvsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\cvsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\cvsubmissionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\cvsubmissionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\cvsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\cvsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\updatecvstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\updatecvstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\interviewdateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\interviewdateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\admincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\admincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\liquidfillingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\liquidfillingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\tabletquotationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\tabletquotationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\tabletcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\tabletcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\quotefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\quotefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\paymentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\paymentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\liquidquotationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\liquidquotationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\liquidfillingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\liquidfillingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\liquidfillingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\liquidfillingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\createquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\createquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\capsuleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\capsuleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\capsulequotationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\capsulequotationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\dto\\capsulecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\dto\\capsulecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\liquidfilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\liquidfilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\iliquidfillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\iliquidfillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\capsuleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\capsuleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\icapsuleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\icapsuleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\customassemblyloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\customassemblyloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\capsule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\capsule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\tabletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\tabletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\services\\interfaces\\itabletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\services\\interfaces\\itabletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\repo\\irepo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\repo\\irepo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\migrations\\20250511014928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20250511014928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|c:\\bev3\\bev2\\project\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE9E90-E46C-4672-8B16-8B40E5BEF1D8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CVSubmissionController .cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\CVSubmissionController .cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CVSubmissionController .cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\CVSubmissionController .cs",
+              "RelativeToolTip": "backend\\Controllers\\CVSubmissionController .cs",
+              "ViewState": "AQIAAAECAAAAAAAAAAAowOcBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:14:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\JobController.cs",
+              "RelativeToolTip": "backend\\Controllers\\JobController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAswEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:31:07.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAcwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:26:37.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "backend\\Controllers\\QuoteController.cs",
+              "ViewState": "AQIAAL0BAAAAAAAAAAAkwMMBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:04:12.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\IFeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:22:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAADwv90AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:59:01.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\DbContext.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\DbContext.cs",
+              "RelativeToolTip": "backend\\Models\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:29:40.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:44:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateFeedbackDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CreateFeedbackDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CreateFeedbackDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CreateFeedbackDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CreateFeedbackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:27:42.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReplyFeedbackDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\ReplyFeedbackDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\ReplyFeedbackDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\ReplyFeedbackDto.cs",
+              "RelativeToolTip": "backend\\DTO\\ReplyFeedbackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:31:19.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "backend\\Services\\FeedbackService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:55:40.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Feedback.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Feedback.cs",
+              "RelativeToolTip": "backend\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:19:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TabletController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\TabletController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TabletController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\TabletController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TabletController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:55:57.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:15:38.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:16:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\JobDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\JobDto.cs",
+              "RelativeToolTip": "backend\\DTO\\JobDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:19:17.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CapsuleController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\CapsuleController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CapsuleController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\CapsuleController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CapsuleController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:31:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\EmailService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\EmailService.cs",
+              "RelativeToolTip": "backend\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:41:09.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "backend\\DTO\\ResetPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:29:08.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CandidateForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\CandidateForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CandidateForgotPasswordRequest.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\CandidateForgotPasswordRequest.cs",
+              "RelativeToolTip": "backend\\Models\\CandidateForgotPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:14:52.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:19:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CVSubmission.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\CVSubmission.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CVSubmission.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\CVSubmission.cs",
+              "RelativeToolTip": "backend\\Models\\CVSubmission.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:19:11.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Tablet.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Tablet.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Tablet.cs",
+              "RelativeToolTip": "backend\\Models\\Tablet.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:49:20.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Candidate.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Candidate.cs",
+              "RelativeToolTip": "backend\\Models\\Candidate.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:58:05.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateCVStatusDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\UpdateCVStatusDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\UpdateCVStatusDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\UpdateCVStatusDto.cs",
+              "RelativeToolTip": "backend\\DTO\\UpdateCVStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:14:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CVSubmissionResultDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CVSubmissionResultDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CVSubmissionResultDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CVSubmissionResultDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CVSubmissionResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:09:27.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CVSubmissionDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CVSubmissionDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CVSubmissionDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CVSubmissionDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CVSubmissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:29:47.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T08:26:52.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "backend.http",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend\\backend.http",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\backend.http",
+              "RelativeToolTip": "backend\\backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-12T06:20:32.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CandidateCreateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CandidateCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CandidateCreateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CandidateCreateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CandidateCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:00:18.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InterviewDateUpdateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\InterviewDateUpdateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\InterviewDateUpdateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\InterviewDateUpdateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\InterviewDateUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:40:51.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CandidateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CandidateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CandidateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CandidateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CandidateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:18:54.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminCreateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\AdminCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\AdminCreateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\AdminCreateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\AdminCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:15:59.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Job.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Job.cs",
+              "RelativeToolTip": "backend\\Models\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:19:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LiquidFillingController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\LiquidFillingController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\LiquidFillingController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\LiquidFillingController.cs",
+              "RelativeToolTip": "backend\\Controllers\\LiquidFillingController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:22:50.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TabletCreateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\TabletCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\TabletCreateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\TabletCreateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\TabletCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:57:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QuoteFeedbackDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\QuoteFeedbackDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\QuoteFeedbackDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\QuoteFeedbackDto.cs",
+              "RelativeToolTip": "backend\\DTO\\QuoteFeedbackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:06:46.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "backend\\DTO\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:39:22.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentCreateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\PaymentCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\PaymentCreateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\PaymentCreateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\PaymentCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:38:59.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TabletQuotationDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\TabletQuotationDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\TabletQuotationDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\TabletQuotationDto.cs",
+              "RelativeToolTip": "backend\\DTO\\TabletQuotationDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:48:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LiquidQuotationDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\LiquidQuotationDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\LiquidQuotationDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\LiquidQuotationDto.cs",
+              "RelativeToolTip": "backend\\DTO\\LiquidQuotationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:32:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LiquidFillingUpdateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\LiquidFillingUpdateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\LiquidFillingUpdateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\LiquidFillingUpdateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\LiquidFillingUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:34:40.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LiquidFillingCreateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\LiquidFillingCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\LiquidFillingCreateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\LiquidFillingCreateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\LiquidFillingCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:22:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateQuoteDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CreateQuoteDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CreateQuoteDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CreateQuoteDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CreateQuoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:53:17.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CapsuleUpdateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CapsuleUpdateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CapsuleUpdateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CapsuleUpdateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CapsuleUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:59:18.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CapsuleQuotationDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CapsuleQuotationDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CapsuleQuotationDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CapsuleQuotationDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CapsuleQuotationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:01:48.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CapsuleCreateDto.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CapsuleCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\CapsuleCreateDto.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\DTO\\CapsuleCreateDto.cs",
+              "RelativeToolTip": "backend\\DTO\\CapsuleCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:33:07.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LiquidFilling.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\LiquidFilling.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\LiquidFilling.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\LiquidFilling.cs",
+              "RelativeToolTip": "backend\\Models\\LiquidFilling.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:49:37.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T03:16:33.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ILiquidFillingService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\ILiquidFillingService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\ILiquidFillingService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\ILiquidFillingService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\ILiquidFillingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:35:09.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Quote.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Quote.cs",
+              "RelativeToolTip": "backend\\Models\\Quote.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:19:28.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Capsule.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Capsule.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Capsule.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Capsule.cs",
+              "RelativeToolTip": "backend\\Models\\Capsule.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:20:50.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T09:00:45.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomAssemblyLoadContext.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\CustomAssemblyLoadContext.cs",
+              "RelativeDocumentMoniker": "backend\\CustomAssemblyLoadContext.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\CustomAssemblyLoadContext.cs",
+              "RelativeToolTip": "backend\\CustomAssemblyLoadContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:09:49.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T08:25:12.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "backend\\Models\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:19:21.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Admin.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Admin.cs",
+              "RelativeToolTip": "backend\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:15:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Role.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Role.cs",
+              "RelativeToolTip": "backend\\Models\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:27:17.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:27:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:16:12.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\AdminService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\AdminService.cs",
+              "RelativeToolTip": "backend\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:16:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\QuoteService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\QuoteService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\QuoteService.cs",
+              "RelativeToolTip": "backend\\Services\\QuoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:22:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\IQuoteService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IQuoteService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\IQuoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:22:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProductService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\ProductService.cs",
+              "RelativeToolTip": "backend\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:40:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:39:43.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "backend\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:40:24.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\PaymentService.cs",
+              "RelativeToolTip": "backend\\Services\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:37:09.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:36:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TabletService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\TabletService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\TabletService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\TabletService.cs",
+              "RelativeToolTip": "backend\\Services\\TabletService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:51:16.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ITabletService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\ITabletService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\ITabletService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\ITabletService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\ITabletService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:50:57.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Payment.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Models\\Payment.cs",
+              "RelativeToolTip": "backend\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:49:55.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Repo\\Repository.cs",
+              "RelativeDocumentMoniker": "backend\\Repo\\Repository.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Repo\\Repository.cs",
+              "RelativeToolTip": "backend\\Repo\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:39:28.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-28T13:31:27.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Repo\\Irepo\\IRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repo\\Irepo\\IRepository.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Repo\\Irepo\\IRepository.cs",
+              "RelativeToolTip": "backend\\Repo\\Irepo\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:25:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CapsuleService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\CapsuleService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\CapsuleService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\CapsuleService.cs",
+              "RelativeToolTip": "backend\\Services\\CapsuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:22:00.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICapsuleService.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\ICapsuleService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interfaces\\ICapsuleService.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Services\\Interfaces\\ICapsuleService.cs",
+              "RelativeToolTip": "backend\\Services\\Interfaces\\ICapsuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:21:45.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250511014928_InitialCreate.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Migrations\\20250511014928_InitialCreate.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20250511014928_InitialCreate.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Migrations\\20250511014928_InitialCreate.cs",
+              "RelativeToolTip": "backend\\Migrations\\20250511014928_InitialCreate.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:49:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\BEv3\\BEv2\\project\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:28:43.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
